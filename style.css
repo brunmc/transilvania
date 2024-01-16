@@ -1,0 +1,30 @@
+  body {
+    padding-top: 73px; 
+  }
+
+  .carousel-item img {
+    width: 100%; 
+    height: 600px; 
+  }
+
+  .cardQuartos {
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    margin-top: 20px; 
+    margin-bottom: auto;
+    padding: 20px;
+  }
+
+  .card {
+    width: 18rem;
+  }
+
+ .navbar{
+    background-color: aliceblue;
+ }
+
+.card-img-top {
+    object-fit: cover;
+    max-height: 180px; /* Ajuste a altura máxima conforme necessário */
+  }
